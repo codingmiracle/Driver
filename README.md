@@ -5,7 +5,8 @@
 [![MIT License][license-shield]][license-url]
 
 
-HTL St. Pölten   Elektronik & technische Informatik
+<a href="https://github.com/codingmiracle/htlstp-el">HTL St. Pölten   Elektronik & technische Informatik</a>
+
 <p align="center">
   <a href="https://github.com/codingmiracle/Driver">
     <img src="Graphics/Logo.png" alt="Logo" width="1500" height="480">
