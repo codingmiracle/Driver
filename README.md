@@ -7,7 +7,7 @@
 
 HTL St. Pölten   Elektronik & technische Informatik
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/codingmiracle/Driver">
     <img src="Graphics/Console.png" alt="Logo" width="1500" height="480">
   </a>
 <br />
@@ -33,13 +33,13 @@ HTL St. Pölten   Elektronik & technische Informatik
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a support library for C Console applications! 
+This is a support library for the EL Robot
 <br /> You can:
-* control text color
-* control text position
-* get current position
-* get easy keyboard input
-* ideal for console games and 1st Class projects
+* drive at a speed
+* use IR-distance-sensor
+* get line-follow support
+* control the LEDs
+* output on a LCD-display
 
 <h4 style="display: inline-block">Created by:</h4>
 OE3KUW: https://github.com/OE3KUW
@@ -48,9 +48,9 @@ OE3KUW: https://github.com/OE3KUW
 
 ## add to your Project
 
-Copy the console.c and console.h into your project folder. <br />Add console.c in your Code Editor to your project and include the headerfile in your main.c : `#include "console.h"`
+Copy the driver.c and driver.h into your project folder. <br />Add driver.c in your Code Editor to your project and include the headerfile in your main.c : `#include "driver.h"`
 <br />
-If you use Code::Blocks you can do this via Project/Add Files and then choose console.c
+If you use Code::Blocks you can do this via Project/Add Files and then choose driver.c
 
 ## Wiki
 
@@ -87,13 +87,13 @@ David Gruber - dav.gruber@htlstp.at
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/codingmiracle/Console.svg?style=for-the-badge
-[contributors-url]: https://github.com/codingmiracle/Console/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/codingmiracle/Console.svg?style=for-the-badge
-[forks-url]: https://github.com/codingmiracle/Console/network/members
-[stars-shield]: https://img.shields.io/github/stars/codingmiracle/Console.svg?style=for-the-badge
-[stars-url]: https://github.com/codingmiracle/Console/stargazers
-[issues-shield]: https://img.shields.io/github/issues/codingmiracle/Console.svg?style=for-the-badge
-[issues-url]: https://github.com/codingmiracle/Console/issues
-[license-shield]: https://img.shields.io/github/license/codingmiracle/Console.svg?style=for-the-badge
-[license-url]: https://github.com/codingmiracle/Console/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/codingmiracle/Driver.svg?style=for-the-badge
+[contributors-url]: https://github.com/codingmiracle/Driver/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/codingmiracle/Driver.svg?style=for-the-badge
+[forks-url]: https://github.com/codingmiracle/Driver/network/members
+[stars-shield]: https://img.shields.io/github/stars/codingmiracle/Driver.svg?style=for-the-badge
+[stars-url]: https://github.com/codingmiracle/Driver/stargazers
+[issues-shield]: https://img.shields.io/github/issues/codingmiracle/Driver.svg?style=for-the-badge
+[issues-url]: https://github.com/codingmiracle/Driver/issues
+[license-shield]: https://img.shields.io/github/license/codingmiracle/Driver.svg?style=for-the-badge
+[license-url]: https://github.com/codingmiracle/Driver/LICENSE.txt
