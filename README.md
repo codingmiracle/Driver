@@ -8,7 +8,7 @@
 HTL St. Pölten   Elektronik & technische Informatik
 <p align="center">
   <a href="https://github.com/codingmiracle/Driver">
-    <img src="Graphics/Console.png" alt="Logo" width="1500" height="480">
+    <img src="Graphics/Logo.png" alt="Logo" width="1500" height="480">
   </a>
 <br />
   
