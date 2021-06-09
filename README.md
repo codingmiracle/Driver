@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a support library for the EL Robot
+This is a support library for the EL Robot <strong>🚫 NOT FINISHED YET 🚫</STRONG>
 <br /> You can:
 * drive at a speed
 * use IR-distance-sensor
