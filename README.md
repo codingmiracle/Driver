@@ -76,7 +76,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-David Gruber - dav.gruber@htlstp.at
+<a href="https://github.com/codingmiracle" >David Gruber</a> - dav.gruber@htlstp.at
 
 
 
