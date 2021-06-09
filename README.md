@@ -13,7 +13,7 @@
   </a>
 <br />
   
- <h1 align="center">Console</h1>
+ <h1 align="center">Driver</h1>
  
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -42,7 +42,7 @@ This is a support library for the EL Robot
 * control the LEDs
 * output on a LCD-display
 
-<h4 style="display: inline-block">Created by:</h4>
+<h4 style="display: inline-block">🙏 Created by:</h4>
 OE3KUW: https://github.com/OE3KUW
 
 
