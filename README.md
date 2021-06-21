@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/codingmiracle/Driver">
-    <img src="Graphics-Driver/Logo.jpg" alt="Logo" width="1300" height="500">
+    <img src="Graphics-Driver/Logo.jpg" alt="Logo" width="1300" height="auto">
   </a>
 <br />
   
